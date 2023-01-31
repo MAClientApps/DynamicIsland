@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48899549878",
+    "project_id": "dynamic-island-ios-16-notch",
+    "storage_bucket": "dynamic-island-ios-16-notch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48899549878:android:3883ed9992303356f1d417",
+        "android_client_info": {
+          "package_name": "com.dynamic.notification.ios.islandtheme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48899549878-oftuhuq4ieufj02h4qnujjisufnk82eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9PhADRTrml03Zbs4u0phTfvNOqc4Xeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48899549878-oftuhuq4ieufj02h4qnujjisufnk82eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

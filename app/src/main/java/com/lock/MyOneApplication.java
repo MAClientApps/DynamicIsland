@@ -42,7 +42,7 @@ public class MyOneApplication extends Application {
         super.onCreate();
         mInstance = this;
 
-        config = new MobConfig(this, "68sbv51dsrgg");
+        config = new MobConfig(this, "68sbv51dsrgg","7j8ptx");
         Mob.onCreate(config);
         registerActivityLifecycleCallbacks(new MobLifecycleCallbacks());
 
